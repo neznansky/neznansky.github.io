@@ -1,0 +1,18 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Note: This content has been removed in favour of the definitions in Classic-Jekyll-Theme.scss.
+
+// Import partials from the theme.
+@import "classic-jekyll-theme";
+
+#footnotediv div {
+    opacity: 1;
+    background-color: white;
+    padding: 3px;
+    padding: 12px;
+    max-width: 800px;
+    border: 1px solid #CDBBB5;
+}
