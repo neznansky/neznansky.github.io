@@ -134,7 +134,7 @@ That it's probably the state or attributes of the person that leads to the varia
 
 [^badconformity]: But that's "by definition". The point is that the transformation in behaviour occurs ostensibely neither spontaniousy nor out of conviction, but through submission to the opinion of others. 
 
-[^DD]: I find it slightly amusing that even in the simplified, fantasy literature derived, roleplaying game [Dungeons & Dragons](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons) there is a formal distinction between "good" and "orderly". Each player character has an "aligment", a basic adherence to an ethical compass, that consists of [two parts](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons). One denotes where the character stands on a spectrum of "good and evil", and the other where it stands on a specturm of "law and chaos" (lawful and non-lawful). 
+[^DD]: I find it slightly amusing that even in the simplified, fantasy literature derived, roleplaying game [Dungeons & Dragons](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons) there is a formal distinction between "good" and "orderly". Each player character has an "aligment", a basic adherence to an ethical compass, that consists of [two dimensions](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons). One denotes where the character stands on a spectrum of "good and evil", and the other where it stands on a specturm of "law and chaos" (lawful and non-lawful). 
 
 [^StripSearchPhoneCallScam]: [A hoax most cruel: Caller coaxed McDonald's managers into strip-searching a worker](https://eu.courier-journal.com/story/news/local/2005/10/09/a-hoax-most-cruel-caller-coaxed-mcdonalds-managers-/28936597/), Andrew Wolfson, Courier Journal, October 9, 2005.
 
