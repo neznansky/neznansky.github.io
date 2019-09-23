@@ -8,7 +8,7 @@ lastEdit: "February 2, 2018"
 menuInclude: yes
 menuLink: yes
 menuTopTitle: Essays
-menuTopIndex: 1
+menuTopIndex: 2
 menuSubs:
 - title: Aesthetics
 ---
@@ -289,6 +289,276 @@ It does seem like people enjoy dancing, and given that people assess other peopl
 	With some things, pain and pleasure are clearly separate and could exist without the other. For example, being beaten up is clearly painful, but not being beaten up is not especially pleasant, it’s merely neutral. I suppose one would not get elated for not being beaten-up unless one had been beaten up every day and suddenly, one day, one wasn’t. But even then the pleasure would come from a mirth derived from a relief that something bad that was supposed to happen didn’t happen. If one was greatly distracted at that day by something else then this absence would go unnoted without any additional positive effects. On the other hand, a good massage is clearly pleasant, but most of us would not suffer for not receiving one (unless we suffer for back pain and feel like massage would be the only succor). <br/>
 	But what about food and hunger, or sex and sexual desire? Do we enjoy food because it diminishes the pain of hunger? Or perhaps the pain comes from hunger while the pleasure comes from an exquisite taste? One can imagine eating something with resignation, no pleasure derived, nothing else being available. On the other hand, people do eat things that are tasty despite not being hungry, and that is <that> which turns people obese. But then again, the satisfaction of hunger can be positively pleasurable; they say that hunger is the best sauce, and indeed after a day and a half of not eating, the plainest food would be relished, just like plain cool water after a long or intensive physical exercise would. Perhaps in this context one can make a meaningful distinction between that which is pleasant, quenching and satisfying. If we ordered sushi but the delivery-person got lost on the way and we never get it and eat bread instead, our meal might pleasant, if the bread was more or less tasty, but not satisfactory since our hopes for how to satiate our hunger were frustrated. If the bread was enough then the meal would be quenching, while if we stayed hungry afterwards it wouldn’t. I wonder if anything could be satisfying while not being pleasant ––– we got what we want but we didn’t get the pleasure we expected from it? I suppose that still we would be frustrated (not satisfied) albeit now it would be due to our misjudgment rather than due to unfavourable external circumstances.<br/>
 	Perhaps the situation is analogous with sex drive and sex activity, perhaps not quite. Either way I think ––– I hope ––– that I established that that which motivates people to engage in sex is not the orgasm.
+
+## Temperature
+This is somewhat trivial, but I want to include it for the sake of completion. Humans have a preference for ambient temperature, and whether they are too cold or too hot, a restitution of a convenient surrounding temperature is rewarding.  This ideal temperature, I suppose, is around 20°, but it is probably dependent on the metabolic state of the body. I suppose the perfect ambient temperature would be such that would keep the body temperature at homeostatic levels with the difference between the ambient and ~37° being made as a side-effect of metabolism, with the body putting no or very little work just to generate heat (through caloric burning) or cool down (through sweating).
+
+Being somewhere around 20°, I suppose that this is the temperature where  temperature-homeostasis can be kept simply as a "side effect" of a conveniently operating metabolism, such that the body doesn’t need to put extra work just to put the body heat at its desired temperature (too cold) nor activate a mechanism to reduce it (such as sweating) or slow-down metabolism (too warm). 
+There’s also preference for food temperature 
+*food temperature
+
+## Sounds
+The auditory system receives as a signal the vibration of air, which conveys, like vision, information about the mechanical environment. While vision conveys information about surfaces and their spatial arrangement ("the oak is behind the birch"), sound carries information about "content"/depth/volume, that which has thickness and is occluded by surfaces ("the oak is hollow, or dense, or hard, or soft, based on a tap on the trunk"). The loudness, pitch and timbre of sounds convey information about the distance, size and "shape" of their source. As far as living creatures are able to produce and shape a voice, auditory perception could be the receptive side of intra-species communication, and to an extant of inter-species communication (not always voluntary).<br/>
+One can expect inheret reaction to certain sounds, whether on a repulsion/ attraction scale or otherwise, if these sounds or some quality thereof had been continuously indicative of phenomena that were relevant to survival over an evolutionary-meaningful time span.
+
+I'll start the discussion with an unpleasant sound: a baby crying. What characterizes a baby's cry? It is pretty optimized to grab attention. It is high pitched, which is an outcome of babies' small size, but it is also easier to produce loud sounds that are high pitched than low pitched, and the frequencies they cry in are those that the human auditory system is the most sensitive to, that is, perceived as loudest. Their cries are intermitant, as they have to breath. The cries are changing slightly in pitch, either undulating or simply rising or falling, which helps the crying being salient on the one hand, and probably makes it a little easier on the vocal cords, given that babies often need to cry for prolonged stretches of time. The aversion of adults to this sound is clearly adaptive: being noxious they want to put it out, which acts as a strong imperative for the adult to take care of the crying child. <br/>
+It is my opinion that the unpleasantness of "classic noxious screetches", such as an unfortunate stroke of chalk on a blackboard, knife on a bottle, a train braking &c stems from these being a superstimulus, that is, an extreme form of the component of the stimulus to which the "babie's cry aversion" responds to. A constant high pitched sound might be unpleasant but, it seems to me, when it has slight variations in pitch it becomes that much more abnoxious, and these variations, which are in the crying of babies, are also there when a chalk scrapes a board and in other such sounds.<br/>
+Interestingly, after I formed this idea I stumbled upon a paper that mentioned a comparison between scraping sounds and the warning cries of monkeys and found them to be similar[^MonkeyCries], and concluded that the human reaction is a [vestigial](https://en.wikipedia.org/wiki/Vestigiality) reflex. While on the one hand it seemded to somewhat confirm my suspicion if only because somebody else had thought along the same lines, the conclusion sounded absurd to me and even scientifically dishonest. First of all, it's a little odd that the scraping sounds were compared to the alarm calls of monkeys and not, for example, to those of Chimpanzees which are evolutinoarily much closer to human, unless, of course, the smaller monkeys make sounds that are higher pitched, therefore producing the results one had seeked. By the way, while the alarm calls of Chimpanzees are way off chalk on blackboard, they do cry/whine similarly to human infants.[^ChimpanzeeCry] Second, again, there's a human produced sound that I'd bet without checking is as similar if not much more to the irritating scraping sounds than monkeys' alarm call, and so to make this interspecies (and, in this case, inter-taxonomical-families) comparisons is going way too far. It wouldn't make the, if you will, Occam's razor's cut.
+
+[^MonkeyCries]: Really I couldn't set my hands upon that paper, "Primal Screech", Blake R. Margins, 1986, but it was referenced in [*Scraping sounds and disgusting noises*](/docs/aesthetics/2008-Cox.pdf), Trevor J. Cox, 2008. 
+
+[^ChimpanzeeCry]: [https://www.youtube.com/watch?v=Xf69k_ATdWI](https://www.youtube.com/watch?v=Xf69k_ATdWI)
+
+I'd like to discuss two divisions of sounds seperately: natural and artificial (manmade). A different way to categorize these is as environmental sounds and sounds rendered arbitrarily at the self by other agents, that is, audible communication, whether the signals are evolved, such as crying, or learned, as in semantic language. In the case of the latter, the agent must not be another human being but can be, for example, a cat and its pleading meow. 
+
+Among pleasant natural sounds we have the sound of wind sweeping trees, the sound of flowing water, the sound of rain ––– all of which, it seems to me, are some kind of [colored noise](https://en.wikipedia.org/wiki/Colors_of_noise). Would it be adaptive to find these sounds attractive? I'd say so. Being attractive, such sound could motivate human approach and settle in environments that are suitable for them: trees and vegitation suggest sources of food, possibely of shelter, and flowing water is indicative of, obviously, a source of water, and is a proxy of food presence: whether of ediable plants or huntable animals that are nourished by the water. Rain, too, would similarly be indicative of a non-arid locality, though given the aversive experience of being under the rain speak against the inclusion of this sound in those that promoted the evolution of the attraction to this profile of sound.<br/>
+Is it likely to expect that such an attraction would evolve? One could presume, for example, that speciemen (whether humans or otherwise) that lived in a favourable environments survived while others didn't, and that thenceforward the offspring of the former just learned within their lifetime what is necessary for their survaival (sources of food, water, shelter) and just stuck within the boundaries within which the environment provided that. Whenever the population growth exceeded what the locality could sustain some wanderers might have left to seek another place to settle in, and chose a new one, again, by relying on the knowledge they had acquired of what constitutes a good environment, instead of relying on inherent preferences.<br/>
+But what is knowledge? If we think about it as an association/ remembered relationship between stimuli, for example, between the round red of an apple and the satiation of hunger, then for this knowledge to be useful it is required that the individual pays attention to the right stimuli and ignore the rest of the perceptual input. Humans as well as many other mammals seem to be pretty good about filtering the relevant perceptual information in order to make sense of individual "objects", but are they as good at this kind of learning when habitat is concerned? Unlike an object which is circumscribed as a source of perceptual experience, an environment is in a sense the entirety of the experience.[^EnvironmentalStimulus]<br/>
+Is the environment merely the sum total of objects? If so, individuals, when choosing a place to settle in, could simply tally that which is desired by them and is present. If anything is missing, they move on. But this has two issues. One, it might be an intractable task, as those types of objects which had been enojyed by the individual in past environment could be inordinate, and of course we don't assume that animals ––human or otherwise–– walk around with clipboards like some surveyors. Two, it would be problematic if a certain locality is rejected because it was missing something that had been enjoyed in a previous environment. First, because it is not clear that through learning a person could figure out what is essential and what is simply pleasant; Bob found an area with fresh water and plenty of food but it lacks those pebbles he had known which were so fun to skip on the water, so he continues searching, dying of hunger in the process of settling at an environment that has both pebbles and food, but much less of the latter than was present in the first location he visited. Second, because it is not clear that a person would correctly generalize. What if Bob, who had been nurished by fruits and nuts, had to leave and seek another place? And he reaches an environment that could support him through fish and some small animals, but which lacks all kinds of fruit? Had he recognized the environment as favourable he would have settled in it, and once he was hungry for long enough he would overcome his squeamishness and try to satisfy his stomach with something he had never tried before.<br/>
+For patterns of perception (whether auditory or visual: see below, in the future) to evolve to attract individuals to settle around sources of these, they must have been consistently indicative, that is, correlated with, hospitable environments. That trees and running water, and therefore their associated murmurs, were thus correlated is something that I can but hypothetically speculate.<br/>
+On the same note, another pleasnat "environmental sound" is the chirping of birds. Is it that birds' song is attractive because humans evolved an attraction to (manmade) music? Or was it that humans evolved to be attracted ot bird song and thence appreciated music in general?
+
+birds
+Human voice
+
+[^EnvironmentalStimulus]: As in "gene vs. environment" studies. By the way, in these, of course, what is important is not the environment per se but its interace with the individual. I'd say I was surprised that it took so long for "the academia" to realize that they were taking the word too literaly, but I suspect that laziness and a lack of scientific integrity picked up where ignorance had left off in order to prolong this for a good number of decades. 
+
+As attractive sounds, they might motivate humans to settle at specific localities; the former two being references of specific features, and the latter of a specific climate. Assuming certain "geographical features" were more conducive to prehistoric human survival, it stands to reason that whatever mechanism that might help stir humans in the right direction would evolve. Vegetation provides shelter from the elements, food (in the form of both plants and herbivores) while water provides drink and is a proxy of food (other animals drinking from the same source and plants nourished by the water) [I’m also a supporter of the "aquatic ape theory" and as far as water was advantageous to human evolution, attraction to the sound of water can be expected]. I couldn’t find any academic paper asserting thus, but I think it’s safe to say that humans generally find the sound of the human voice pleasant, which would be beneficial ––– if anything else ––– to keeping humans in groups.
+
+%%%%%%[[[[[[[[[[ First read the old paragraphs, then review the newer once and add missing elemets. Then delete old]]]]]]]]]]%%%%%%%%
+
+
+
+What about music? Music consists of a highly artificial arrangement of pitches of various durations to a meter, and seems to be more engaging on average than simply the pleasant sounds of nature. I’d say that the natural sounds have a soothing calming effect –––– indeed many nature recordings on youtube are labelled as "relaxing" and meant to "help sleep" –––– while music can be highly stimulating, whether energetic or provoking emotions of sadness.
+
+Darwin thought that music had to do with sexual selection. That seems reasonable, and congruent with the apparent sexual appeal musicians have that is beyond that which is attached to other skilled individuals. But what is the advantage of musical ability, or what does it signal? If musical ability is advantageous for its ability to attract a mate, what is the advantage in being attracted to a music-maker? I’ll suppose that as music is old, for most of the duration in which there was an evolutionary pressure, music ability consisted from (1) singing and (2) music production by tools, perhaps mostly repercussion. The latter demands a certain dexterity which it directly presents, while the combination is mentally taxing and alludes to a capability to learn. Singing might be physically demanding, and thus signals physical fitness. 
+
+But to explain music we must, I think, go back a little and look at the evolution of language. I have had a certain toy theory that language had evolved from the attention and interpretation of the breathing of conspecifics. Still today inhaling and exhaling is expressive: sighs, gasps, yawns, pants and so on. Unlike the evolution of a communication that uses arbitrary signifiers –– which is really the coevolution of their expression and of their perception –– here we have only an evolution of the perception, since the expression is an end product of other metabolic processes. Just as there’s a reason that heart rate goes up and not down after a person runs or gets excited, there’s a reason why a startle makes people quickly inhale or why annoyance or the end of patience is manifested as a quick inhaling with a stretched exhaling. I suppose these expressions might be exaggerated, but I suspect they originated as a side effect rather than as media of a communicative agency. Further, I suspect that attention to pitch (or, more precisely, it’s variation: perception of speech per se, "perfect pitch", is a rare attribute) is also arising from the interpretation of these telling signs of breathing (and further perhaps from their appearance within a sentence, that is, prosody*) and which gives the emotive power to certain succession of pitches. That is, I suspect that a "major key" is happy while a minor one is sad not randomly, but due to the stereotypical unfolding in time of pitches during say a gasp, exhilaration or sadness. 
+
+{bridge?}
+Many animals use arbitrary signals for communication. From semantically simple expressions such as warning calls (warning conspecifics from danger), threatening calls, mating calls such as bird songs to more sophisticated ones such as apes employ, including "sign language" or such as cetaceans use, there’s a signal that stands as an arbitrary signifier. The emergence of a symbol is the double emergence of the expression and the perception. As far as expression is spontaneous, it seems an easy accident to come by; a creature, be it an animal or specifically some proto-human, needs to have some proclivity to gesture or make a sound (think of it like the urge to grab which preceeds the learning of tool usage). As far as this behaviour does not procure heavy adaptation costs, it may stick around. And once a receiver of this signal emerges, the expressioner –– if the learning facility is there –– can learn what the "meaning" of this expression is, and utter/sign it accordingly. If developmental progression at all parallels evolutionary progression, one might think of the babbling of babies, which precedes the learning of the meaning of one’s own expressions [%%%****] as analogous. I don’t suspect that there was a long stretch of evolutionary time where humans went about making meaningless noises. With some mammalian intelligence those expressions can pick up meaning quickly. A dog can learn several different verbal commands; while in this case there’s a teacher, that is, one side with the absolute knowledge such that the other side, the dog, approaches with time the point of understanding, one can imagine that a convergence can occur also when both sides start at a point of ignorance. Indeed, one does not need to imagine this: the emergence of cryptophasia or "twin talk", an idiosyncratic language developed by twins, is exactly that. Here the emergence of language occurs among organisms with a well evolved capacity for language, but one can imagine a similar but less sophisticated  phenomenon  occurring among  lingually less sophisticated brains.
+So the emergence of the expresser is "easy", but what about the receiver? I think one requirement is attention. Once attention is there, learning can occur. What I think is that one "faculty" that evolved which enabled the evolution of language is attention to (auditory) repetition. Repetition is a strong signifier of intent. An example I like is that of door knocking. It is not random or arbitrary that people tend to knock on doors three times. A single knock might be people moving furniture in the stairwell and banging it accidentally against the door; it might be a misconstrued sound; it might be a complete auditory hallucination. A second knock reduces the probability of the above and a third knock –– especially if creating a second equilong interval ––– drops these probabilities to the floor. It would be a freakish accident if something in the stairwell raps in constant rhythm three times against the door; the first knock eliciting attention, it helps locating and correctly identifying the source of the noise; and most people don’t imagine such a series of knocks. With behaviour a repetition, therefore, is a strong signal that the repeated phenomenon is not something that "happened" to the person, but rather an act of agency.  And I’d say that that animals take advantage of it is seen in their repetition of calls (for example chimpanzee calls), as well as in humans: baby babble is often a repetition of a single syllable, or the phenomenon of palilalia that occurs in people with Tourette’s  { This might sound far fetched, but I think that that people verbally respond to sneezing but not to coughing is the other side of this coin. Sneezes frequently come in pairs or more. While coughing can be constituted of several explosive exhalations, they usually vary in sound so that one ends up with a single "coughing bout" rather than a repetitive sound. Sneezes, on the other hand, are usually standard in sound among each person and sometimes even come out in even intervals, that is, they created a repetition that to human ears (or brains) sound "intentional". The verbal acknowledgement, whether by the company saying "god bless you" in English speaking countries or by the sneeze itself saying "excuse me" in Japan, functions to absolve the perceived meaning. The semantic content of the response is really secondary to the function of dissolving the hanging tension of accidental meaning}. Assuming that there’s no de novo emergence, as it were, of a new behaviour among people with Tourette’s, I think a certain instinct for repetition is unleashed in these cases which hints to an "instinct of repetition".
+{An example where a repetition of a word creates a new menaing"}
+I think most of us would associate "pleasure" first of all with bodily, that is, tangible, sensations. This is because the experience of physical pleasure is immediate and engulfing as opposed to other sensory pleasing impressions. But this immediacy also shifts our minds to the subjectivity of pleasure and away from how it affects our behaviour. The pleasing is attractive: it does not repel us (which is what the painful does) nor does it leave us indifferent. It steals our attention; it compels us upon itself. This is why the thought of a partner thinking about something else during sex is potentially insulting: essentially it suggests that they are not being pleased, do not experience pleasure, and therefore merely "performing".
+Like with touch, the pleasing sound is the one which draws our attention, which compels us to put our mind on it (both internally with our mental faculties, and externally by keeping the stimulus extant). The pleasure itself is the subjective experience of being drawn, it is the measure against which we weigh the alternative of not attending to it. 
+Repetition is necessary in music, and it is what makes it pleasurable. Without it is chaos, that is, noise; with it is pleasure. With it it sounds intentional, which draws us to it, which makes it interesting. Too much repetition and perhaps our mind gets the idea that whatever content, information, was encapsulate in it, it was extracted; no more (new) information is contained there, and so it becomes boring. I think the auditory repetition that is inherent to rhyming and alliteration is what makes it enjoyable the way music does. Wikipedia states, "Rhyme partly seems to be enjoyed simply as a repeating pattern that is pleasant to hear" –– but I think what is pleasant is not the pattern (of constants and vowels, presumably) that is being repeated, but the repetition itself. And when rhyming occurs in metered verses, the repetition in sounds occurs at even intervals, further eliciting the "perception of intention" the same way the third knock on the door does.
+My theory, therefore, is that the evolution of attention to auditory repetition is that which enabled us to develop verbal communication, first a primitive one and then a structured language. It was advantageous to make sounds that were distinguishable from accidental sounds and other environmental noises, and advantageous to addend to such sounds of others. Once creatures make noises that qualitatively very different from accidental noises (either of their own bodies or of the environment), listeners can separately treat "intentional" and "accidental" auditory phenomena, and from there the intentional sounds can be dressed with arbitrary meaning. Thence  the advantage of cooperation among kin is obvious. 
+Once characteristics emerge (that is, their identification evolves) that differentiate intentional and therefore meaningful sounds from others, these characteristics being attractive, then they can be taken and amplified into superstimuli. Indeed, I think that the pleasure of rhyming and alliteration stems from these being exaggerated characteristics of what differentiates intentional noise from accidental. I say "superstimuli" since from the point of view of the evolved listening apparatus there is no reason to heed rhyming speech over non-rhymed one; both are generated intentionally by conspecifics and their "form", their degree of "perceived intentionality" (intentonality?), does not allude to the usefulness of the conveyed meaning.{This is not strictly true. Presumably the capability of producing rhymed speech is depended on certain cognitive aptitudes and therefore allude to both genetic and developmental fitness and therefore suggest the agent as either a deserving mate or collaborator, or both} Nonetheless, humans mostly behave as if it was the case and pay more attention and give more importance to the content of words of a good form. {Aside from some humour in the musical composition per se, the humour intrinsic to the Ylvis "The fox (what does it say?)" song, whose video is one of the most watched ever on youtube, rests largely on the gap between the obvious investment in form and the obvious inconsequentialness of the text of the lyrics}  Indeed, like Pinker I think that music is auditory cheesecake, and like with cheesecakes we might forgo nutritious food if it doesn’t have enough sugar in it. "Monotonous" is one adjective to describe a boring speech, that is, one that it is hard to concentrate on. At times and for some people, it does not matter how much they want to listen to that speech, something in their brain simply just not register this intonation-less voice as a sounds worthy of attending to, and the mind drifts to other thing. With a certain chagrin I now retrospectively recognize the correlation between the amount speakers ––– former professors of mine, lecturers on youtube and so on ––– modulated their tone, and the interest I had in what they had to say.{I’m in favour of running a certain big data experiment, and looking whether there is a correlation between voice modulation/ amount of variance and views/likes of youtube videos that are speech only, or at least within certain topics/categories. I think there’s also a phenomenon of people intonating but "wrong", as if not having a natural perception of that but still trying to fake it. But these are really rare, I’d think} I think that what differentiates them, or, rather, their lectures, is not who or what they were, but rather what they did or thought they were doing (which also affected aspects of their lecture other than intonation, but I think the latter is a significant part). The monotonous speakers come to recite; there’s information they came to deliver whose value is agnostic to the tone in which it is delivered. Therefore it is enough to just say all the right words in the right order and the task is essentially successfully completed. The tone modulators, on the other hand, don’t "give a talk" but "talk"; for them the lecture is a social interaction that is to be handled the same way that one handles any one on one conversation. That people (most people?) speak differently when delivering a lecture or presentation was obvious to me for a while, but I remember it being humorously striking when a friend presented before me a presentation she was to give a few weeks thence. We discussed whether she would "present" before me or simply "tell me the contents", and as I remember it we settled on the latter. Nonetheless, what she did was "present". Since it was at informal settings, one on one and outside in the park rather than in a lecture hall, the boundary between our "organic interaction" and the "presentation" was between two adjacent sentences, and so I could immediately hear how her speaking changed. I’d predict that one can predict how well-received the talk of a person would be by a "general audience" based on how difficult it is to tell (based, say, on a short sound clip) whether they are "lecturing" or "talking". Or, even more narrowly, whether they are at the "talk" part or at the "questions and answers" part of their lecture.
+This might be slightly far fetched, but I imagine there might be a certain interaction between teacher’s and students’ communicative style, and how well these students excel at school. That is, that while all is equal when a teacher is speaking to the class, in cases you have a "reciting" teacher, students who are less sensitive to intonation (in other words, their attention is less attenuated by changes of tone) would relatively do better than ones that do, simply since the latter would find it harder to concentrate, being used to verbal communication being delivered with a certain relish, let’s say.
+If you were paying attention, perhaps you noticed that I switched from talking of repetition as attractive/ attention-grabbing, to talking of intonation as such. I’m guilty here of a slight of hand. Both repetition and modulation of tone are components that are important to music and skillful crafting of which is necessary to make a piece of music pleasant. I argued for the evolved attention to repetition as the evolution of attention to agent-driven sound generation, and while I first thought that I will not do that same with tone, upon further thought I imagine that something similar might have happened with tone as well. In one paper Justus and Hutsler {Fundamental Issues in the Evolutionary Psychology of Music, T. Justus and J.J. Hutsler, 2005} elicit the mental faculties shared both by music perception and speech processing to counter argue others’ claims of definite evidence of natural selection operating in the realm of music perception. It goes well with my idea of music being a superstimulus of auditory-attention, but  I want to evoke something else from the paper. They mention that harmonics –– which are important in music ––– are a property of most auditory phenomena in the world. When something in nature makes a sound, it is never a perfect sinusoidal pitch of a single frequency, but always a complex stack of frequencies, many of them being of certain frequency ratio of each other (due to the nature of how things vibrates, a la "standing waves"). There may be many different frequencies there, but the human ear "correctly" recognizes them as being emitted from a single source. Whether intrinsic or has been learned, just as the brain successfully organizes the visual input into distinct object based on color, boundaries and so on, so does it the auditory input by regularities of frequency and timing. 
+It’s difficult to imagine such a sound in a pre industrial-machines world, but perhaps a constantly repeating sound is more indicative of a circular process rather than the intention of an agent, such that keeping attention on it would be disadvantageous; indeed, if it’s continual, one might completely lose their attention for a long period of time on, for example, the sound of rain. Alternatively, rather than being a property of audition, perhaps it’s an extension of a general property of the brain dealing with long and unchanging stimuli that seem to matter very little by stopping paying attention to them. Just as we stop heeding the feeling of the clothing on us, or seeing the frame and surrounding when watching a movie, or seeing our own nose, so we become impervious to the sound of a ticking clock in a room, or the traffic outside, the ventilation and so on.{This is why, of course, people would put on "white noise" or the recording of rain or a river flowing and so on when they want to concentrate, or relax. The auditory input is taken over completely by a regular sound that is soon ignored by the brain and which is loud enough to mask any otherwise distracting  sounds and limits attention to the other sense, or, in the case of relaxation, to inner thoughts} }While sounds of little semblance or temporal organization are unheeded being perceived as noise, a sound too constant is regarded as emanating from a single source but due to its unchanging nature the information it conveys are quickly registered and thence it is "filtered out" as being part of the background noise, and will only return to attention once ceasing or changing in quality. On the other hand, sounds that are similar enough to each other for example by sharing a timbre to elicit the perception that they belong to a single source and organized temporally to suggest they belong to an agent, yet are different enough to indicate a changing, dynamic agent, would continually recapturing our attention. I suggest that the evolution of language took advantage of that faculty by driving humans not only emit sounds that are repeating but also ones that vary in tone, that is, pitch, and, more specifically, by varying pitch according to ratios that reproduce harmonics that the brain recognizes as a single entity. This would be a kin to breaking down a harmony , a chord, into melody, a temporal succession of sounds. It is reasonable to believe that the same notes that when they sound together elicit a harmonious chord would be recognized by the brain as belonging to a single source when stretched in time as a melody, not only accidentally, but also "on purpose" as different frequencies of a natural sound decay with different speeds, so that a "single sound" would sound differently over time. An adaptive way, therefore, to grab the attention of conspecifics via sound would be to produce sounds that repeat, that resemble each other, but which vary over time in ways that mimic the auditory profile of dynamic sounds of single sources. People naturally do it in speech, while rhyming and alliterating is a superstimulus to this cognitive apparatus evolved to enable human verbal communication, while music is a further step in the super direction, not being constrained by the limitations of speech or even human organic sound production once music instruments were introduced (and repercussion instruments were probably introduced very early on, via the process presented in the tactile section).
+
+It’s hard to believe, however, that music is merely a superstimulus of evolved adherence to speech. Either there was something else evolving on top of speech perception  or, which seems to me also very likely, the evolution of adherence to speech has had more to it than attention, or the state of "attention" involves more than directed information processing. Speech has syntactic content which makes its effect very rich and <eligible> for complex analysis from several different levels, but  music per se, apart from any sung parts, despite lacking such a content, still carries an imperative: to move our bodies, dance; it conjures emotion, memories, a certain state of mind. Other than in dance it is witnessed in work songs. Those can distract the mind from the pain of labour. It is true that with works that necessitate the coordinated effort of many persons, such as rowing  a boat or maintaining railroads or the works that endangered sea shanties, music can synchronize everybody. Unfortunately, my knowledge here is limited to that which was presented by "popular culture", but I have the impression that also workers of individual labour, that is, work that is not coordinated (say, breaking stone into gravel or mining), sung working songs. The chant might have coordinated their work, but the success of their work is not mechanically dependent on that synchronization. Given that singing demands expenditure or energy and somewhat unnaturally restricts/ defines oxygen uptake, one would assume that had the singing no benefit to the work itself, this would not have been practiced. But I think the "movement imperative" of music indeed facilitates the work. Indeed, it was find that bikers who biked in rhythm to a song were biking more efficiently {comsumed less oxygen?} {find that paper for this. First saw it on vsauce about what is music or summin like that}.
+As for emotion, I think what music conveys could be attributed to "natural" (i.e. not learned, or not solely learned) reactions to prosody of speech in particular, and sound in general. The next would perhaps be akin to pre-modern speculative scientific treatises, so is to be taken together with some doubt (as anything that I write, really).
+Tempo –– faster music is exciting, slow music is calming. It seems obvious to explain: things that move quicker also produce faster varying sounds. It is safe to assume that humans as well as other animals evolved to adjust their state when the environment becomes more dynamic. When things are fast changing, the animal should be able to act appropriately quick, that is, become more alert and "on its toes". Indeed, perhaps even to the point of having the sympathetic system take over. The reverse would be true when slow music is played to mask noisey and fast environment, or played when the listener is already excited, to a calming effect.
+I think something similar can be argued about loudness, though I think most of the reaction evolved in its role in interpersonal communication. To start with, things that are closer make louder sounds, and if they are closer they warrant a quicker reaction, hence loud sounds (music included) would be more stimulating. But whether bootstrapping the former or not, our use and perception of loudness comes from domination. However a person might conceptualize it, anger arises at a situation which is to be handled by force, violence. While angry reaction can also suit the dealing with angering objects such as those we were not aware of until we hit our head or toe against them (though not intermittently working television set) by eliciting their clearing, the reaction as a whole, including the raising of voice, fixture of eye contact and exaggeration of movement was adapted to dealings with other animals (including other humans). Exaggerated movement and an erect stance emphasizes the size of the individual, while a loud voice can be a reliable cue additional to the visual of the individual size, as well as health and therefore vitality, or at least in men: { 10.1016/j.evolhumbehav.2005.11.003} Raising the voice increases the signal of the voice, and therefore can accentuate how deep it is. How deep, that is, low pitched, a man’s voice is, correlates with his testosterone level, which, in turn, can signal health. Raised testosterone hinders that immune system, weakens it, so if a person developed healthily while sustaining high levels of testosterone, it would mean they are healthy (rephrase last sentence. Also, would be pertinent for mating (since genes are passed), but would it to a man on man situation?)
+
+
+Pleading is also whiny, unpleasant to listen to: people modulate their voice to be unbearable, so we satisfy their request so they cease making these terrible noises 
+
+
+Non harmony, no melody
+Happy is harmonious because would be bad to cringe from natural sounds (which are harmonious)
+Does chalk grating produce non-harmonious sounds?
+Sadness wasn’t to be terminated - either to be consoled (and "shh" is used to mask the sound) or for the other person to stop the assailant behaviour. It is unpleasant, the way baby crying is unpleasant 
+Laughter r-> harmonious and rhythmical, wailing -> not?
+And therefore minor chords (and other disharmonious chords) are perceived to be "sad"?
+
+ Likely this imperative is also conveyed in speech via intonation, speed, volume and so on, that which we might refer  to as the affective or non-verbal components. 
+
+Fast slow
+Loud quiet
+Tone <<<
+
+
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[ why minor chords are sad? How emotion is conveyed in faces? "arbitrary"/semi-arbitrary evolution of signifiers, like facial expressions but with tone?
+There are all kinds of statements about body language and tone of voice being X amount of percentage of the interpersonal communication, which of course is bunkers: how do you quantify it? What are the units?
+
+As far as language goes, there certainly more to it –– understanding it, producing it –– than attention to auditory repetition. I think that this evolved attention was like a scaffolding that was necessary for language to evolve, but is not necessary after the fact for its utilization. To bring one example, it can be said with calm that Nabokov was a master of language, and yet, by his own account, he could derive no pleasure from music. At the same time, noise disturbed him to a great degree, enough to write about it, enough to reside in top floors so there are no stomping feet overhead, that is, noises grabbed his attention. But here it’s not the repetition of noise, but, I’d imagine, their saliency. They grab their attention as indicators as a certain phenomenon rather than as means of communication. 
+[[[[[[[[[[[[[[[[[[[
+
+What is auditoary pleasure? Pleasure of the body …. 
+Pleasure of audition is a call for attention &c
+
+Noise to mask attention-grabbing noise
+
+{There must be to music pleasure more than that (speech rerception super stimulus") –– thinking dancing, exciting vs boring music, dancy vs non-dancy (morose?) music? Or is that really still at the realm of speech? Can contentless speech excite us?}
+
+Playback vs live music –––– the enjoyment is directly related to whether the music attests to the performer’s ability or not
+
+Sexual selection 
+BUT: dancing
+Coordination… rhytm for coordination? 
+
+Labour music
+Work out music
+Social music
+
+
+Music
+Trees, water, rain
+Human voice 
+
+
+Sound:
+	crying babies -> bad
+	sound of water? Birds?
+
+
+Visual:
+	evaluation of:
+			habitat
+			objects that pique curiosity --> organic things (fruits &c) <-> fractal structure? Symmetry?
+				how visuals prompts certain interactions
+			mates: symmetry, regularity (averageness) 
+			Created artifacts: virtuosity 
+
+Attraction: you’re so cute I want to eat you 
+
+
+
+
+
+
+
+
+
+
+
+==============================================================================
+==============================================================================
+-==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+==============================================================================
+
+
+Squirting 
+
+
+Stimulate by another person 
+
+Male stimulating clitoris  release oxytocin, making the female bond to him
+She allowing herself be thus stimulated  selection on this abstract commitment of male (of time?) was she being hacked? Her male offspring would be also hackers.
+What if she didn’t have a clitoris?
+
+Uteral contraction for birth  pelvic contraction that emit ejaculation
+Relueased oxytocin in both cases -> bonding with partner, and (in fhe former) with child
+
+Coregasm 
+
+
+WHAT IS PLEASURE???
+
+2. Why exercise at all 
+
+Libido =/= wanting to have orgasm 
+
+But things are a bit more complicated. 
+
+
+https://theestablishment.co/the-strange-relationship-between-g-spots-chili-peppers-and-childbirth-95727501ca39
+
+"The primary conclusion from the experiment was that almost all the fluid expelled from these seven women unquestionably came from their bladders. Even though their bladders had been drained, they still expelled from 50 ml to 900 ml of fluid through the tube and into the catheter bag. The only reasonable conclusion would be that the fluid came from a combination of residual moisture in the walls of the bladder and from post draining kidney output.
+"There was also a consistency of results that showed a greatly reduced concentration of the two primary components of urine, urea and creatinine, in the expelled fluid. A review of previous literature leads to an inference that it is possible that the expelled fluid is an altered form of urine and that there may be a chemical process that goes on during sexual stimulation and excitement that changes the composition of urine.
+"On four occasions the research team saw evidence of milky-white, mucous-like emissions from the urethra outside of the catheter tube. Although three of those emissions were recorded by the video cameras, the research team was only able to capture a small portion of the fluid for laboratory analysis. An objective reading of the previous literature indicated the possibility of such an emission from the urethral glands and ducts.
+
+
+
+
+https://www.ncbi.nlm.nih.gov/books/NBK326674/
+
+contractions 
+
+{pleasantness of interpersonal touch. Hugs, carrases &c}
+
+
+http://www.gutenberg.org/files/13613/13613-h/13613-h.htm
+
+
+Sexual drives 
+
+Spicy salty chocolate 
+
+/ smell
+The arts of culinary and of perfume making are very different from each other
+Cunnilingus?
+
+taste:
+Good taste
+Bad taste
+Spicy / acquired 
+	mates? (kisses, oral sex)
+
+
+smell:
+	ripeness/goodness of food
+	mates 
+		(cunnilingus of monkeys + vaginal secretions)
+		sweat
+
+
+
+touch:
+	comfort (lying on something that doesn't agitate)
+
+
+proprioception? 
+	movement feels good -> motivation to roam about (hunter gatherers); animals are not plants and are dependent on movement to satifsy their needs (finding food, mates, shelter)
+	external cues that adjust how well it feels to move: day/night (safer & more conductive to the way we find things (visual))
+	does wind feels good?
+
+temperature?
+	(again, what's good for us -- trivial(?))
+
+Sound:
+	crying babies -> bad
+	sound of water?
+
+
+Visual:
+
+	evaluation of:
+			habitat
+			objects that pique curiosity --> organic things (fruits &c) <-> fractal structure? Symmetry?
+				how visuals promts certain interactions
+			mates
+
+
+
+
+
+
+** of stories
+	Frans de Waal --> (the extra layter of humans on top of apes, not "emotive" ("instinctual") but "computed?")
+		Stories with "happy ending"/ resolutions "reward" our sense of justice	
+
+
+
+
+
+
+
+
+Foot notes
+
+
+
+
+%*
+I might be completely off here, though. I think most acquired tastes involve bitterness, or perhaps a combinations of bitterness and sourness, and I think bitterness is more varied than sourness, as it perceived a greater variety of distinguishable molecules. Perhaps, then, getting acquainted to one kind of bitterness makes one comfortable with other kinds of food with the same kind of bitterness? 
+
+%%
+I think the phenomenon of security blankets and of comfort objects in general exemplifies the inherent reward of soft objects. 
+
+
+
+It’s also possible that this behaviour, this kind of play, is motivated by observation, that is, after an instruction by a parent. But, then again, I think that the instruction provide a lesson as to how objects in the world might be manipulated, and that it is the intrinsic pleasure of manipulation which keep the children going at that when they are left to their own devices. 
+
+%%%****
+The fact that understanding other’s expressions and understanding the meaning of one’s own are two different faculties can be seen, I think,  in that receptive and expressive aphasias are separate conditions.  
 
 
 <hr/>

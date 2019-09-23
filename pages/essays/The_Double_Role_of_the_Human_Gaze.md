@@ -8,7 +8,7 @@ lastEdit: March 3, 2018
 menuInclude: yes
 menuLink: yes
 menuTopTitle: Essays
-menuTopIndex: 1
+menuTopIndex: 3
 menuSubs:
 - title: The Double Role of the Human Gaze
 

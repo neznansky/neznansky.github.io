@@ -7,7 +7,7 @@ firstPublished:
 menuInclude: yes
 menuLink: yes
 menuTopTitle: Essays
-menuTopIndex: 1
+menuTopIndex: 3
 menuSubs:
 - title: Fake a Memory, change your Heart
 ---
