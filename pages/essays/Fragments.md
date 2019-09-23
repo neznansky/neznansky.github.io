@@ -29,5 +29,3 @@ In the movie *The Matrix*, Neo –– who is the praogammer and hacker Thomas An
 But this world, again, is manmade and is controlled by men. While words are epiphenomenal to the earth, as it were, they are that which creates the world of the internet. In this world things can be created out of nothingness through words, for, indeed, the only substance of this world are words. Unlike goats, chairs, houses or grazing rights, things are being sold there that had not been in existence until the very moment of exchange. A person buying a "premium account", or a player buying some fancy item in an MMORPG, is gaining something that might be to his advantage, but which is as fictional as the world he is interacting with. Something is being given, but nothing had been taken away.
 
 <hr/>
-
-# Another title
