@@ -37,7 +37,8 @@ As a point of departure, I'd like to start with the word itself. Ultimately, the
 2. Conforming to known principles, or established or accepted rules or standards; valid. 
 3. Authentic, real, genuine. 
 4. Lawfully begotten, i.e., born to a legally married couple. 
-5. Relating to hereditary rights.<br/>
+5. Relating to hereditary rights.
+
 Among these, the second is probably the relevant one. What all these political philosopher discuss, promote and reject are different principles by which to judge one or the other government. I think the error starts here.<br/>
 The issue, I'd say, is that law is derived from the state, its significance depends on the existence of the state. That an action I committed was illegal is significant only so far as there is a government which enforces the law. Whether I judge that some action I or another committed was "lawful" or "not lawful" is completely insignificant; if there's a government then it would be their judgement that matters, and if there isn't one then the modifier "lawful" is altogether meaningless. <br/>
 Since there is no almighty enforcer outside of governments, there is likewise no real sense in which one could say a government is legitimate. Who is to judge? It only makes sense if one believes that there is a god who makes such judgement. Locke's assertion that it's the people who give legitimacy to the government only makes sense as a response to those who preceeded him and who ascribed the source of legitimacy to god, as an answer that refutes the common conventioon. <br/>
