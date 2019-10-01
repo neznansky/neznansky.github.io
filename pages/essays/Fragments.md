@@ -54,6 +54,23 @@ The word "such" above stands for "instantanious", "absolute", "precise" and "all
 
 universality
 
-
-
 <hr/>
+
+# Consumer unions
+
+A trade union betters the working conditions of its members by being making decisions on their behalf. For example, as far as wages are concerned, it is the union that bargains with the employer rather than the individual. There's necessarily a gap between the lower rate at which a worker is willing to work and the higher rate at which it would still be profirtalbe for the employer to employ. By voluntarily forgoing his autonomy (and relying on the fact that others in his trade do the same) the worker strenghtens his bargain power. The "choice"/ push for a higher wage is not his own insistance, but a collective, Workers have an insentive to join a union as it furthers their interests, and employers have an interest to employ as the employment is still beneficial to them. 
+
+One of the big issues facing the solution/ mitigation of climate change and other environmental problems is that legislation is very slow, and, therefore, there is not enough collective action. A "consumer" who things that it is completly insignificant vis-à-vis the environment whether he recycles or not, whether he drives a fossil-fueled car, an electric car or simply bikes, is correct. It is insignificant. My decision to take a backpack to the supermarket to avoid usinng a nylon bag does not affect at all the packing decisions of other supermareket goers.[^SupermarketBag] My deccision to use less electricity at home does not affect other home owners. And everybody know that. Writing opinion pieces in the newspaper would not change that one bit. The daily consumption of nylon bags is governed by millions of independent decisions, ndt by mine or yours.
+
+What if, on the other hand, consumers unionized? What if their purchasing decisions were collective, so that they could as one decide to boycot a product because its producer heavily pollutes or because it's packaged in unnecessary amount of plastic packaging, or boycott a supermarket because it offers nylon bags? If such a union is big enough, it would be the producers' and distributers' interests to comply with such demands.
+
+[^SupermarketBag]: Potencially it would inspire witnesses to do the same, but that's a very small footprint. 
+
+This idea has many issues.<br/>
+First, while, as is mostly the case in modern times, employers and employees have a contract ~~~~ {rendering} the relationship between them, no such contract exists between buyers and sellers; the market is free. 
+Second, unlike the case of trade unions, here it is not a win-win situation for the union's members. While a worker who doesn't unionize might find a deal with an employer quicker, ultimately it would be to his disadvantage. On the other hand, it would be usually to the advantage of consumers to break-off their unions and, for example, buy the less expensive or more convenient but less status-quo friendly product. <br/>
+In order for such consumers unions to be viable they must provide an advantage for their members. This advantage can be ideological –– giving a sense to their members of making a significant ecological change –– but given the economical system in place, that advantage would probably have to eventually[^EventualAdvantage] be economical as well, whatever the shape of that advantage be. 
+
+[^EventualAdvantage]: I say eventually because I suppose that it might be dependent on the current size of the union. For example, it might be that initially these unions would attact mostly people motivated by ideology, but once the unions become strong enough that they can bend the arms of manufacturers and distributers, they would also gain an angle that would allow them to guarantee an advantage to their members, for example by guaranteeing certain commodity prices. Alternatively, that advantage might come in the form of social relations. 
+<hr/>
+
