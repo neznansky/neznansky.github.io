@@ -74,3 +74,11 @@ In order for such consumers unions to be viable they must provide an advantage f
 [^EventualAdvantage]: I say eventually because I suppose that it might be dependent on the current size of the union. For example, it might be that initially these unions would attact mostly people motivated by ideology, but once the unions become strong enough that they can bend the arms of manufacturers and distributers, they would also gain an angle that would allow them to guarantee an advantage to their members, for example by guaranteeing certain commodity prices. Alternatively, that advantage might come in the form of social relations. 
 <hr/>
 
+# Emergence of vocal language
+
+Breathing provides humans the oxygen required to their metabolism. Certain states affect and alter the rhythm of breathing; exertion demands faster circulation and therefore faster breathing. <br/>
+Breathing also happens to be audible. Given the relationship between state and breathing, hearkening another's breathing pattern might provide useful information. Could it be that such an attention to the breathing of others has evolve among humans and then also paved the way for the evolution of the faculties that made language possible?<br/>
+Nowadays many inhalations and exhalations are very expressive: gasping, sighing, huffing, yawning, snickering.
+
+<hr/>
+
