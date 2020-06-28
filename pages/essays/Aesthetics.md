@@ -90,11 +90,13 @@ If we describe people as looking good/ bad ("beautiful", "ugly") then we comment
 
 [^feeling]: while English does explicitly denote reflexivity of verbs in cases where a transitive verb that is seldom reflexive is directed at the actor, such as in "he slapped himself", it mostly employs transitive forms where some other language employ reflexive verbs. For example, in German, Russian, Hebrew and Spanish "to dress" (getting dressed) and "to meet" are reflexive, as well as "to feel" in this particular sense (with the exception of Hebrew where the transitive verb is used; the reflexive form means "to get excited").
 
+
+{% comment %}
 {{{Not sure:
 It seems to me that people "acquire tastes" of foods by getting used to a specific combination of tastes. In Europe, for example, the bitterness of cocoa, coffee and tea was and is commonly offset by sweeteners (sugar, honey). However, in its native Mesoamerica the cocoa drink was drank with chili in it, while in Mongolia tea is drank with milk and salt. 
 I indroduced the hot-spiciness to raise another point, which is that I think that the aversive component in food is usually perceived gustatorily, that is, by the tongue, while the food is "recognized" olfactorily. So, for example, if one "acquires a taste" for a food that is very sour, one would still need to "acquire" other sour foods[%*]. I think this is why 
 }}
-
+{% endcomment %}
 # Smell
 Smell helps humans to assess the goodness of food even before they put it in their mouths. Rotten food stinks and would elicit an aversive response, while good, "sweet-smelling" food would be relished. <br/>
 Another domain where "aesthetics of smell" are relevant is that of assessment of others, namely, of potential mates. Body odour might serve as cue to such aspects as developmental stability and hormonal constitution, a suggested studies that found women’s preference, but only for non-singles during their peak fertility menstrual cycle period,[^MatingStrategy] for odours of more face-symmetric men as well as more narcissistic men (based on questionnaire based scale)[^SymmetricOdour] (the notion of odour being able to communicate immunocompatability and with it attractiveness seems to be [wrong](2017-Probst.pdf)), as well as studies that found that men find the odour of ovulating women more pleasant.[^OvulationOdour] This is particularly the case for women regarding odour of men during ovulation, while men find the odour of ovulating women to be more attractive than that of women in other phases of the menstrual cycle. In either case, the appreciation of these cues is facilitating of reproduction by (1) facilitating conception and (2) selecting a mate with perceived "good genes". 
@@ -318,15 +320,23 @@ Is the environment merely the sum total of objects? If so, individuals, when cho
 For patterns of perception (whether auditory or visual: see below, in the future) to evolve to attract individuals to settle around sources of these, they must have been consistently indicative, that is, correlated with, hospitable environments. That trees and running water, and therefore their associated murmurs, were thus correlated is something that I can but hypothetically speculate.<br/>
 On the same note, another pleasnat "environmental sound" is the chirping of birds. Is it that birds' song is attractive because humans evolved an attraction to (manmade) music? Or was it that humans evolved to be attracted ot bird song and thence appreciated music in general?
 
+
+{% comment %}
 birds
 Human voice
+
+{% endcomment %}
 
 [^EnvironmentalStimulus]: As in "gene vs. environment" studies. By the way, in these, of course, what is important is not the environment per se but its interace with the individual. I'd say I was surprised that it took so long for "the academia" to realize that they were taking the word too literaly, but I suspect that laziness and a lack of scientific integrity picked up where ignorance had left off in order to prolong this for a good number of decades. 
 
 As attractive sounds, they might motivate humans to settle at specific localities; the former two being references of specific features, and the latter of a specific climate. Assuming certain "geographical features" were more conducive to prehistoric human survival, it stands to reason that whatever mechanism that might help stir humans in the right direction would evolve. Vegetation provides shelter from the elements, food (in the form of both plants and herbivores) while water provides drink and is a proxy of food (other animals drinking from the same source and plants nourished by the water) [I’m also a supporter of the "aquatic ape theory" and as far as water was advantageous to human evolution, attraction to the sound of water can be expected]. I couldn’t find any academic paper asserting thus, but I think it’s safe to say that humans generally find the sound of the human voice pleasant, which would be beneficial ––– if anything else ––– to keeping humans in groups.
 
+
+{% comment %}
 %%%%%%[[[[[[[[[[ First read the old paragraphs, then review the newer once and add missing elemets. Then delete old]]]]]]]]]]%%%%%%%%
 
+
+{% endcomment %}
 
 
 What about music? Music consists of a highly artificial arrangement of pitches of various durations to a meter, and seems to be more engaging on average than simply the pleasant sounds of nature. I’d say that the natural sounds have a soothing calming effect –––– indeed many nature recordings on youtube are labelled as "relaxing" and meant to "help sleep" –––– while music can be highly stimulating, whether energetic or provoking emotions of sadness.
@@ -353,6 +363,8 @@ As for emotion, I think what music conveys could be attributed to "natural" (i.e
 Tempo –– faster music is exciting, slow music is calming. It seems obvious to explain: things that move quicker also produce faster varying sounds. It is safe to assume that humans as well as other animals evolved to adjust their state when the environment becomes more dynamic. When things are fast changing, the animal should be able to act appropriately quick, that is, become more alert and "on its toes". Indeed, perhaps even to the point of having the sympathetic system take over. The reverse would be true when slow music is played to mask noisey and fast environment, or played when the listener is already excited, to a calming effect.
 I think something similar can be argued about loudness, though I think most of the reaction evolved in its role in interpersonal communication. To start with, things that are closer make louder sounds, and if they are closer they warrant a quicker reaction, hence loud sounds (music included) would be more stimulating. But whether bootstrapping the former or not, our use and perception of loudness comes from domination. However a person might conceptualize it, anger arises at a situation which is to be handled by force, violence. While angry reaction can also suit the dealing with angering objects such as those we were not aware of until we hit our head or toe against them (though not intermittently working television set) by eliciting their clearing, the reaction as a whole, including the raising of voice, fixture of eye contact and exaggeration of movement was adapted to dealings with other animals (including other humans). Exaggerated movement and an erect stance emphasizes the size of the individual, while a loud voice can be a reliable cue additional to the visual of the individual size, as well as health and therefore vitality, or at least in men: { 10.1016/j.evolhumbehav.2005.11.003} Raising the voice increases the signal of the voice, and therefore can accentuate how deep it is. How deep, that is, low pitched, a man’s voice is, correlates with his testosterone level, which, in turn, can signal health. Raised testosterone hinders that immune system, weakens it, so if a person developed healthily while sustaining high levels of testosterone, it would mean they are healthy (rephrase last sentence. Also, would be pertinent for mating (since genes are passed), but would it to a man on man situation?)
 
+
+{% comment %}
 
 Pleading is also whiny, unpleasant to listen to: people modulate their voice to be unbearable, so we satisfy their request so they cease making these terrible noises 
 
@@ -560,5 +572,7 @@ It’s also possible that this behaviour, this kind of play, is motivated by obs
 %%%****
 The fact that understanding other’s expressions and understanding the meaning of one’s own are two different faculties can be seen, I think,  in that receptive and expressive aphasias are separate conditions.  
 
+
+{% endcomment %}
 
 <hr/>
