@@ -3,7 +3,7 @@ title: Fragments
 layout: essay
 status: 
 firstPublished: "September 23, 2019"
-lastEdit: "December 8, 2019"
+lastEdit: "June 23, 2020"
 
 menuInclude: yes
 menuLink: yes
@@ -13,11 +13,140 @@ menuSubs:
 - title: Fragments
 ---
 
-*[Magic: controlling the world with words](#Magic)<br/>
+*[Thoughts about food delivery businesses](#foodDelivery)<br/>
+[Magic: controlling the world with words](#Magic)<br/>
 [Political Legitimacy](#PoliticalLegitimacy)<br/>
 [Consumer unions VS. climate change](#ConsumerunionsVSclimatechange)<br/>
 [Emergence of vocal language](#EmergenceOfVocalLangauge)<br/>
 [Language Families](#LanguageFamilies)*
+
+
+
+# <span id="Art">What is art</span>
+Art is an object makipulated in such a way that it evokes a perception that transcends its medium(ñote: where medium simply means the category of objects ––distinctly recognized phenomena––  from which it is taken: paint, stones, a sound, human movements, video clips. It is worthy to note that this categoraization is first of all a construct of the human mind, that is, a mental operation rather than something “out there” and therefore varies from person to person, over a person's lifetime and subject to a person's immediate attention.
+
+
+The words ‘medium’ already suggests 
+Recognition is vital here
+"cannot unsee" things
+
+
+. When we look at a painting –– colorful brushstorkes on a canvas –– we don't just see the colors, we see a man and a woman and a field of wheat. It's not a pipe but it sure looks like it! A string stretched over a wooden box trembles and makes sounds in such a way that the body of the listeners trembles too. Floppy discs happen to make noise when they read floppy discs, but making them noise like anything recognizeable, like Bohemian Raphsody, is art. Moving the body in an evocative way is art. It's merely my friends, but for two hours I don't see my friends but the prince of Denmark and the king of France, an Augur and a knight, and matters of great importance seem to be at stake ––– that is art. An art is deemed bad if one does not fall under the illusion, that is, when the whole does not transcend the parts. The acting or the story is not convincing and one does not see a midwestern middle class family but a poor production effort; or one is not taken by Rothko's colorful expanses and sees nothing by that: expanses of paint on a canvas. Therefore 
+
+# <span id="foodDelivery">Computation intensive natural languages</span>
+	There's a trade-off in algorithms between computation and storage. An algorithm could employ storage to save results so that it won't have to compute them again in the future, or not. Say you have a program that calculates prime number, which you use for your nefarious plans. If the program saves the results on a hard-disc, the next day it could pull them out of memory –– which is very fast –– instead of recomputing them, which is rather slow. One can gain time by storing results, and gain storage by leaving things for future computations. How much computation-time is traded for how much storage varies from task to task. In Douglas Adams' *The Hitchhiker's Guide to the Galaxy* the supercomputer Deep Thought takes seven and a half million years to compute the “Answer to the Ultimate Question of Life, The Universe, and Everything”, an answer that can be stored on very little hard-disc space: ‘42’. To take a less fantastical example, if our task is to train a sophisticated neural networks on millions of images in order to classify a single picture, then the computation will be very long but the answer, say, 'cat' could be stored on little space (we are ignoring here the storage it takes to store the algorithm itself which is used to generate the neural network.) On the other hand, a program that merely outputs an endless list of subsequent integers starting from zero could fill up as much memory as you't let it have and rather fast. In fact, I think the speed of calculation is comparable to the speed of retrieving the result from memory had it been stored. That is, one would save very little time but storing there results on memory.
+	
+I was wondering if something can be said about natural langauges from this point of view. For example, the constructed language Toki Pona, a thought experience in langauges, has a vocabulary of 120 or so root words, that is, words that are in principal not deriveable from each other (as opposed to, in English for example, the words "derive", "derivable" and "derived", where being familiar with one of the words and the rules of the English langauge lets one derive the other ones). The notion that the language has merely 120 words is a conceit, however. Beside the ‘root words’ there are many words which are constructed out of the root words, such as *jan pona*, "good person", for friend. Nonetheless, even lists of compound toki pona words as they appear in text-books are limited in lenghts (and given the way these derived words are constructed, such lists cannot grow beyond a very low limit. Toki Pona allows no morphological changes and there you can march out only so many root words one after the other to convey a single meaning before it appears to be a joke to everyone involved). That means that whenever anyone wants to say something “new” they have to invent, that is, compute, not merely on the level of a sentence but on the level of lexemes, that is, on the level of the units that constitute the sentence; not just be creative and how you build a lego castle, but in creating the lego bricks themselves. This is so because when one says *sike moku* to mean “metabolism” one means something that goes beyond the ideas of “cycle” and “food/ eat”. Because the word is not ‘canonized’ but is a creative act, the hearer too needs to apply computation in order to decode the expression, which could alternatively mean a bagel (an edible torus), food chain (cycle of eating), a round of drinks, maybe even a plate (a circular object eaten from). 
+
+Could it be said that toki pona is a "computation heavy" langauge, saving on storage? Probably not. Toki poni is used more as a thought experiment than as a tool of communication. To judge by online channels dedicated to the language, no conversation in toki pona lasts for very long before breaking off into a conversation in an alternative language, such as English, about the properties of toki pona. This is indeed in contrast to even other constructed languages that are utilized as such, such as Esperanto. For this reason the illusitory nature of toki pona's simplicity remains unperceived. Alternatively, one can say that toki pona is not a language *yet*, or that it is not even half-baked: a cake mix rather than a cake. One can easily imagine that had toki pona been used for communication, standardized “compound words” would have soon developed. Moreover, one can imagine that new root words would have emerged just as quick, if only because all toki pona would be speakers spoke other languages as well. Had one created some artificial conditions in which babies spoke only toki pona from birth, they were likely to introduce these root words themselves. And from this I'd say that Toki Pona does teach us something, namely, that a “simple language” is not one that has a small vocabulary or “few tenses” (which are, too, reconstructed, as it were, in toki pona, from the paltry available units), but one which is regular: currently employed language can be succinctly communicated (few exceptions such as irregular verb forms) and such that the encoding and decoding of new ideas easily follows from language already being used.
+there are several manners by which one can define language simplicity. One can think of an ‘abstract simplicity’, or simply *simplicity*, which takes an approach akin to the derivation of all mathematics from set theory. In this case we only care about how compact the description is, that is, how many definitions of basic units ((U_1, U_2, U_3...U_n)) and of rules do we need in order to be able to reconstruct any mapping of signifier to signified. It does not concern itself how one writes or pronounces any of these basic units. 
+However, to be a language, it has to refer to something outside itself. This means that it has to reflect in itself the complexities that exist in the world, or at least as far as one wants to communicate them. Mathematics is like a tablecloth pattern while language is like a world map: in the former case, if one knows the axioms, she could expend mathematics and the pattern even locked up in a cell. To expand a map, however, one must not only know the axioms of mapping, but be able to observe the world about. Therefore, a language's simplicity correpsonds to the degree/ extent at which it manages to re-employ the same rules across various phenomena, which, I think, is being done by finding isomorphisms in nature. In other words, the creators of the language ––community of speakers–– finds analogies in the world and subsumes their encoding under a single rule.(ñote: perhaps this is what makes metaphors aesthetically pleasing? (the lemon's the compression of information in art as pleasing) it suggests an analogy, and when it is recognized (as really being there) by the reader, there's a sense of joy at this.. akin to, I'd say, the one inherent in humour.)
+Let us consider some examples. A very basic analogy is captures in tenses. The relationship between and “he cooked” and “he is cooking” is analogous to the one between “she walked” and “she is walking”. Namely, each pair describes a single phenomenon happening in different points in time –– the former in the past, the latter in the present. We recognize two different phenomena which we call “cooking” and “walking”, we recognize both as human activities, and once we know how to ascribe one action via langauge to a person in different times (past, present, future and so on) we know how to do so for other actions once we know how to call them -– we add ‘ed’ for past action, ‘ing’ for continous action and so on(ñote: of course, English is not regular here, so you have “ran”, “slept” and so on–– and this, indeed, adds to English's complexity: there are many “buts” to English rules). Next, these actions which are encoded in verbs find analogy with non-human phenomena such as “flowing”, with non-action states such as “standing” or “being” and in general with anything that is “happening” as oppesed to describing how it happening which are encoded as adverbs, as opposed to phenomena that are perceived as entities, encoded as nouns and so on. This of course depends on human perception and therefore is rather fluid; language is suggestive. When we look we can see either the forest or the trees. Therefore one phenomenon can be described as a noun in one language and as a verb in another,(ñote: of course here we make an analogy, too: between "verbs" in one langauge and in another) which would then affect how it could be spoken about and potencially, consequently, how one reasons about it–– if not internally(ñote: as Waif-shair would suggest), then upon verbal communication. For example, one phenomenon can be describes as a verb, “it's raining outside” or an adjective, “it's rainy outside”. In English one refers to rain as a noun only when its confinement in space (analogous to that of objects) is explicit in the sentences, such as “the rains of madrid are strong” or “he stepped into the house directly from the rain”. In English “I am feeling cold”* is “I'm cold” while in many langauges the latter formulation would mean “my body as an object is cold” while the phenomenon would be described as “to me (dative) it is cold (adverb)”
+(try to recall: when "old" could describe two opposite things.. old in one sense but young/ new in another?)
+A less basic analogy is made between time and space. The temporal relationship between events is described with the same language as the spatial relationship between objetcts: A before/ after B; a road is long and so is the movie; a rocket has a trajectory and a war too; parallel things either do not cross each other in time or are happening at the same time.
+Since time is “one dimensional” while space is “three dimensional”, the manner by which one constructs the mapping from the former to the latter has a degree of freedom. In English as in all(?) European languages, the timeline is parallel to the spatial line that moves from the back forward. As for its direction, it is as if the phonemonon that is the world-propagating-through-time is coming towards us; that is, events are facing us and moving towards us. Events that have passed (passed!) are “behind us” and are “gone”; imminent ones are “upcoming”; an event that happens earlier happens “before”, those that happen later happen “after”. Events “follow” one another just as any objects on a curve do, and the most recent events that had happened is “last”. 
+But some languages employ the analogy differenntly. For time Chinese employs the language that describes the spatial axis going from top to bottom (like its writing?), such that “morning” is “above noon” and “afternoon” is “below noon”, “next month” is “under month” and “previous month” is “above month”.
+
+
+That is, the world's movement across time is from “the back” to “the front”, so that events that happened earlier in time happen 
+
+the world moves 
+
+
+
+a suggestion z
+
+isomorphic conceptual structures. 
+
+A second would be a, ‘biological/ mechanical simplicity’ or *easiness*, one that takes into consideration the manifestation/ realization of the language on the one hand ("U_1" is pronounced like /a/, and is represented in writing with this kind of symbol) and an idealized human being that is to employ the language. There are sounds that are audiobly similar (to get more technical, I assume one could construct a space, in the mathematical sense, into which sounds could me mapped. After one finds the boundries in this space which define the human pronounceable sounds, one could use simple eucledean distance as a a metric of similarity. One complication would be that human audition might be differentially sensitive to different sounds on this space. I don't mean through learning, but on a mecahical or innate mental faculties level like the one responsible for psychophysical Equal-loudness contour), such as the vowels in grin and green or two Mandarin words that are only differentiated in tone, and sounds that are different from each other such as ‘s’ and ‘u’. If we have a language where the substitution of a unit X with a unit in Y in some case would result in a plausible alternative meaning (a confusion) and if unit X and Y are similar in sound (or in writing, say, timidity and temerity, or current and correct) then we could say that its difficulty is increased, because employers of the language would have to develop a sensitive inner decipherer. An easy langague employs as  psychophysically-distant morphemes as there is a potential for confusing in the given case. The third and last would be ‘pragmatic simplicity’ or *tenability*, one which takes into account not just innate sensitivities but also learned ones; one that takes not an idealized person but the actual world, which considers either a particular person or a particular society, as well as the various means by which one could study a language.
+One issue with the definition of (abstract) simplicity above is that, it seems to me, it is impossible to describe an exiting language this way. The founadations of mathematics describe a relationship between symbols; that mathematics are useful is because an outside observer –– a non-mathematical entity -- find an analogy between the structure of mathematics an the structure of something else in the world and thus employs it, the same way that a person employs the analogy between a good map and the city's streets in which he is standing, to find his way to a destination.
+)
+
+# let's try:
+A simple language is a lanuage 
+A language's simplicity is the degree/ extent to which it employs the same rules/ basic-units across isomorphic conceptual structures. 
+
+time & space (before, after, long; using "where" when describing a moment in time; "parallel") trajectory
+causality & time (since; and then) sequences
+time & money (invest, lose, waste, have, spare, 
+good/ bad (applied to various amount of things) (depends on morals, world view --- perception on a higher oredr)
+one, two (whatever the object is vs. having a different numerator for different objects like in Japanese and Chinese (which in turn allows for the omission of the numbered when it had been already specified or is clear from context)
+
+-> if you know what it means in one context, you can compute what it means in another context ("long road" ~> "long time"; "pocket money" ("pocket time"?)
+-> if you know what is the case for isomorphic structures A and B, and you know the language that can span structure A, and you know one basic unit (or does it depend on the dimensionality of the phoneomenon, as it were...?) for B, you can generate all the units of B (think verb conjugation)
+
+
+
+# ~~~~~
+
+(language embeds also rules for categorizing/ modelling reality? As in, analogy between before in time and before in space? Or is that merely a rule of the language? yes.. a certain simplification...
+Is the reason why in Chinese temporal precedence and antecedence are analogous to up and down because they write from top to bottom? But no, in English "after" and "before" is like in "coming after me"--> if you walk "after me" in space you will also arrive "after me" in time since we walk foward.
+)
+
+Verlan: an example of a tenable language: its expansion relies on very simple rules, but requires knowledge of the french language. since its expansion is
+
+
+
+The fact that toki pona couldn't avoid the expansion of its vocabulary had it been in regular use has to do with the fact that humans, as opposed to computers, cannot be dictated what to retain in memory and what to discard. Had one heard *sike moku* used several times for “metabolism”, the next time he could'nt help but retrieve this meaning from memory. Computation would be employed only if this retrieval proved to be discrepant within the context or with expectations –– for example, had it been used to mean “bagel” and a decryption to “metabolism” would result in a nonsensical word.
+This fact, I'd say, also explains the phenomenon whereby euphemistic words “drift”. All languages vary over time (an interesting question to pose is “why”; could one in any meaningful way measure language change velocity and correlate it to something, say, social changes?), but euphemisms get old rather quickly (https://en.wikipedia.org/wiki/Euphemism#Lifespan). The decoding of many euphemisms add to the requirement to retrieve a meaning from memory a requirement to perform computation. Supposedly, when it first appeared, the word *restroom* required one more than decoding its two constituting components, “rest” and “room”. By the time one decoded the meaning of this mysterious expression, the encoder had already gone, and the decoder had either drifted into its inner world of thoughts if alone or into the continuing conversation if in company, a temporal distance that smoothes if not removes completely the elicitation of any offence. However, once a euphemistic expression coems to wide usage, the computation is replaced by storage, elimintating the euphemistic effect, leaving one with a direct signifier, to the point that the “origianl meaning” of the substrate, so to speak, is lost and forgotten, as in the case of “toilet”.
+In this context, it is interesting to note the perseverence of “fuck”. In his “Down and Out in Paris and London”, Orwell described the cant employed on the streets, and how quickly the expressions evolve from one period to the next. He presents “fuck” as a recent innovation, and predicts its imminent supplantation ––– yet here we are, 90 years later, with the word still being used. I think what happened here is a curious inversion. The word came to be used in many different ways that have nothing to do with “its actual meaning”. If many euphemistic expression use “plain words” to express unsavory ideas, fuck is used often the other way around, as in, “fucking great” where an unsavory word is being used to express a plain meaning. So “fuck” reamains with us, but I think that using it to mean “intercourse” or “have intercoure” is considered very vulgar, while using it as an intensifier is not, even if it would not be used in the forum of the parliament.  
+
+(About flirting: being eindeutig is not necessarily an abolute value of language)
+
+
+https://youtu.be/TzmmskkuKlM?list=PLPJ9LLQi9QhPfs_P11K36dAhnBLLbYrzi&t=2419
+Narrator: The dreadfulness of everyday life provided rich material for one student comedy group. They filmed this spoof New Year's broadcast by Romanian TV for their private amusement. But before any public performances, all their sketches had to be approved by the
+censors.
+- It reached the height of stupidity when the Ministry of Culture and Communist Education, I hope my memory is not betraying me and this was the actual name, had issued a list of forbidden words. These words weren't allowed on stage, in shows, on TV and newspapers, anywhere else.
+disorder she needs one day well as yes
+- Yes, newspapers too.
+- So these words were forbidden.
+Narrator: One forbidden word was ‘dollar’. The censors assumed that anyone who used the word must be an enemy of the working class.
+- One of the jokes was that as we couldn't say the word dollar, we claimed we had bought a piece of machinery with rubles. The censors were outraged by this as well and wrote on our script “any other currency”. And we said exactly that, “we bought this piece
+of machinery for three hunderd any other currency”. The audience burst into hysterical laughter. It was funnier than any other
+word we could have used. 
+- Because the student audience gotten down to the fact that we've been censored. The censor, a really nice guy, didn't want to impose on us the alternative to the word dollar. So he allowed us to choose any other currency as long as it wasn't the dollar. But we took it literally.
+
+
+# <span id="foodDelivery">Online Feudalism</span>
+There was a move in the last couple of decades towards centralization in the realm of commerce. Google had become the main interface between the internet and its users, later sharing this title, in a way, with Facebook. Youtube is the standard for streaming video online and is replacing television in many ways. Online food ordering services such as those of Just Eat Takeaway are turning into an exclusive interface between the "home diner" and the restaurant. What unites all of these is that what they are creating is not substance, but the container for it; they are not an industry in the old sense of the word but an infrastructure. Google is not a website, Amazon doesn't manufacture, Youtube doesn't make videos and nobody at Just Eat Takeaway cooks. 
+
+There's a similarity between this contemporary situation and the feudal system of old. Feudal lords rendered their domain: they maintained an armed force that protected it from external threats, enforced internal order, and –– depending on time, place and custom –– maintained order in other ways such as keeping roads, holding courts of justice and so on. In return, whether freely or per coercion, they collected taxes and raised levies. 
+
+In an analogous –– even if very different –– way, the above companies are, too, renderers of their domain. The process that of feudalisation that first occured between geographical boundries upon earthly territories now repeats itself inside the online world generated by servers and computer networks and web browsers. A merchant a millenium ago could have tried to vend in the wilderness, avoiding the tolls of market towns, but what sort of clientele would he have had? Similarly, a restaurant in the middle of the city might opt out of being represented in a food delivery platform, but if there's a rising culture of dining on deliverants and if a significant bulk of restaurants' revenue comes from that source, and all else being equal, it would close down sooner or later, if we suppose that rents for restaurant spaces would catch up and that that restaurant would stop being competitive –– assuming that nobody would go eat in restaurants whose main appeal is that they are "off the grid" (though writing this down it immediately strikes me as a potential future "hipster trend"). 
+This assumes that running one's own couriers is disadvantageous to having their provision managed by a third party, which might be the case but nontheless is somewhat iffy. Alternatively, the restaurant might persevere at disadvantageous financial circumstances, which seems unlikely to go on for long assuming the motivation for opting out of being part of the grid in the first place was a move to avoid being taken advantage of, that is, opting to earn more. If at the end one earns thus less, the only reason to stay off the grid would be based on principle, and unfortunately or not, Luddites do not persist for very long.
+
+A recent scandal shows what sort of clout such a centralized agency could have. GrubHub
+
+Yelp can provide whatever information it wants. Any number, any reviews, can control how reviews are given, shown.. and then it has grate power if it teams with some one who does delivery or wahtever
+
+(also in German Yelp different number)
+
+An alternative to just succumbing to this is "going Swiss": the restaurants ccome up with their own infrastructure they own, their own directory/ app with a listing of the restaurants, their menus, their phones and delivery service. 
+
+now happening
+
+ensured the safty of their domain, 
+
+
+AR, but... the online world is different
+
+
+
+Amazon
+Google
+Youtube 
+Just Eat Takeaway
+
+
+data = new oil
+/ our most valuable resources
+
+No, I don't think so. 
+
+the bigger pie
+
+
 
 # <span id="Magic">Magic: controlling the world with words</span>
 
