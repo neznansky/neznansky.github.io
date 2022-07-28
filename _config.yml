@@ -16,7 +16,7 @@
 title: Mark Neznansky
 email: mark.neznansky@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Essays by Mark Neznansky. 
+  Essays and fiction by Mark Neznansky. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  neznansky
@@ -40,6 +40,10 @@ defaults:
 
 collections:
   essays:
+    output: true
+  fictions:
+    output: true
+  poetry:
     output: true
 
 # Exclude from processing.

@@ -1,6 +1,6 @@
 ---
 title: Test title
-layout: essay
+layout: fiction
 status: "my status"
 firstPublished: "April 1, 2018"
 lastEdit: "February 2, 2018"

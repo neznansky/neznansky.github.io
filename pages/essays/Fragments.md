@@ -5,8 +5,8 @@ status:
 firstPublished: "September 23, 2019"
 lastEdit: "June 23, 2020"
 
-menuInclude: yes
-menuLink: yes
+menuInclude: no
+menuLink: no
 menuTopTitle: Essays
 menuTopIndex: 1
 menuSubs:
