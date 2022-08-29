@@ -1,4 +1,5 @@
 ---
+title: Ulises/ God the Dreamer
 layout: fiction
 menuInclude: yes
 menuLink: yes
@@ -9,5 +10,4 @@ menuTopTitle: Fictions
     index: 2
 ---
 
-test dremer
- 
+Lorem ipsum

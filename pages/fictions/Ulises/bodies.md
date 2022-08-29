@@ -1,4 +1,5 @@
 ---
+title: Ulises/ Bodies
 layout: fiction
 menuInclude: yes
 menuLink: yes
@@ -9,4 +10,4 @@ menuTopTitle: Fictions
     index: 3
 ---
 
-Test
+Lorem ipsum
