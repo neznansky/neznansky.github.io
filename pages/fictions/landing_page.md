@@ -1,5 +1,5 @@
 ---
-title: Essays
+title: Fictions
 layout: page
 menuInclude: yes
 menuLink: yes
