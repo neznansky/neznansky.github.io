@@ -4,7 +4,7 @@ layout: poetry
 menuInclude: yes
 menuLink: yes
 menuTopTitle: Poetry
-menuTopIndex: 4
+menuTopIndex: 3
 menuSubs:
 - title: Ciclo de poesía de refrigerator
 ---
@@ -243,8 +243,8 @@ La siguiente fue conpuesto con los mismos ímanes, pero sobre otro refrigirador.
 	      cada amigo doleré
 	   como un pétalo marchito negro
 	       todas ustedes chicas
-	   son tan duros como la niblina
-	       tan rápido como la primavera
+	   son tan duras como la niblina
+	       tan rápidas como la primavera
 	       una ligera sombra delirante
 	         clara & lejana de cielo
 	
