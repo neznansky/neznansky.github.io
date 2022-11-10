@@ -14,7 +14,7 @@ menuSubs:
   Esta forma tiene su proprios desafíos. El compositor no puede sencillamente deslizar palabres de la cabeza, sino las debe encontrar entre la sopa desplegada sobre la puerstas o dentro de la caja de ímanes. Aún cuando el tiempo y la paciencia bastarían, no se dispone cualquier palabra, o, en casos de uso multiple, tampoco la cantidad desea, y el compositor tiene que arreglarse con lo que está. A otro lado, esta forma comparte algo de las tecniquas de la escritura automática, por que a veces una palabra se utiliza no por lo que se le ocurría, pero porque ella está, se encuntra y se presta come una sugerencia.
   El siguiente es un ciclo de talas poemas, compuesto en su mayoría por uno estudiante Von Obreschkow, usando ímanes en íngles, que traduje. Salvo las dos primeras poemas, todas fueron compuesto sobre el mismo refrigirador con los mismos ímanes, y por eso unos motivos y expresiónes se reaparecen también entre diferentes compositores.
   
-  En el verano de 2012 el estudiante estaba en una estancia de investigación, en una universidad lejana. En el refrigirador del departamento en que estaba subalquilado una habitación, discubrió por primera vez tal ímanes. El primer poema es de un compositor anonimo, tal vez de la persona de quién el estudiante habíaa estando subalquilado.
+  En el verano de 2012 el estudiante estaba en una estancia de investigación, en una universidad lejana. En el refrigirador del departamento en que estaba subalquilado una habitación, discubrió por primera vez tal ímanes. El primer poema es de un compositor anonimo, tal vez de la persona de quién el estudiante había estando subalquilado.
 
 
 # <span id="Poema escondida (verano 2012)">Poema escondida (verano 2012)</span>
