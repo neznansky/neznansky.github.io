@@ -9,9 +9,9 @@ excerpt: About page
 ---
 
 
-Here are my texts, many of them incomplete. Despair has grown in me with regards to my inability to finish anything, so I decided to march out my writinng piecemeal.
+Please check out [my substack](https://markneznansky.substack.com/), where I now publish regularly.
 
-I used to write the blog [ankieverything](http://ankieverything.wordpress.com/), about the application of spaced repetition to domains other than dictionary words (but those also).
+I used to write the blog [ankieverything](http://ankieverything.wordpress.com/), about the application of spaced repetition to domains other than dictionary words.
 
 Mark.
 
